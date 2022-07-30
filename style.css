@@ -101,15 +101,20 @@ button:hover{
     font-weight: bold;
     
     
+    
 }
 #youtube-button:hover{
     color: white;
     background-color: aqua;
     transition: all 0,5;
+    
 }
 #footer{
     text-align: center;
    
 
 
+}
+#foter:hover{
+    
 }
